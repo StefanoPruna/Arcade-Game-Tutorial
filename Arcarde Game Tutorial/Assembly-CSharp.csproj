@@ -61,10 +61,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\CameraFollows.cs" />
+    <Compile Include="Assets\Scripts\ClicktoContinue.cs" />
     <Compile Include="Assets\Scripts\Collectables.cs" />
     <Compile Include="Assets\Scripts\Cute.cs" />
     <Compile Include="Assets\Scripts\Debris.cs" />
     <Compile Include="Assets\Scripts\Flame.cs" />
+    <Compile Include="Assets\Scripts\FloatEffect.cs" />
     <Compile Include="Assets\Scripts\LookForward.cs" />
     <Compile Include="Assets\Scripts\MoveForward.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
