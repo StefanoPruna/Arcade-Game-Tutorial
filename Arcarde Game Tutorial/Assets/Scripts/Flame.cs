@@ -24,7 +24,7 @@ public class Flame : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D target)
     {
-        if(target.gameObject.tag == "Player")
+        if(target.gameObject.tag == "Flame")
         {
             OnFlames();
         }
@@ -44,5 +44,9 @@ public class Flame : MonoBehaviour
         
         health = health - 1;
          print (health);
+        if (health == 0)
+        {
+
+        }
     }    
 }

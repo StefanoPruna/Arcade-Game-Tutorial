@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4660383816498971800}
   - component: {fileID: 4660383816498971803}
   - component: {fileID: 4660383816498971801}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: GroundRed
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -188,8 +188,8 @@ GameObject:
   m_Component:
   - component: {fileID: 4660383817602170289}
   - component: {fileID: 4660383817602170288}
-  m_Layer: 0
-  m_Name: Red
+  m_Layer: 8
+  m_Name: TileRed
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

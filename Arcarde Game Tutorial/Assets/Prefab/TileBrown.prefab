@@ -10,8 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 654039938896423349}
   - component: {fileID: 7708223223928920018}
-  m_Layer: 0
-  m_Name: Brown
+  m_Layer: 8
+  m_Name: TileBrown
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -56,7 +56,7 @@ GameObject:
   - component: {fileID: 388573823144103715}
   - component: {fileID: 8429316842268082158}
   - component: {fileID: 6104487170762514207}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: GroundBlue
   m_TagString: Untagged
   m_Icon: {fileID: 0}
