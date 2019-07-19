@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/GameWindow.unity
+- path: Assets/Scenes/Personalize.unity
   isLoaded: 1
   isActive: 1

@@ -41,12 +41,12 @@ public class Flame : MonoBehaviour
           //  body2D.AddForce(Vector3.right * Random (-1000, 1000));
           //  body2D.AddForce(Vector3.up * Random.Range(500, 2000));
         }
-        
+
         health = health - 1;
-         print (health);
+        print(health);
         if (health == 0)
         {
-
+            Destroy(gameObject);
         }
-    }    
+    }
 }
